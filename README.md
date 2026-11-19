@@ -3,7 +3,7 @@
 > 把电脑上的 FXseek 素材库带在手机上：**局域网直连**，按画面、按声音检索，图片视频音频文档一屏浏览；
 > 手机 ⇄ 电脑双向互传；手机保留一份**本地索引**，出了家门、断网也照样能搜。
 
-**免费**、无内购、无账号。手机端只发安装包，App 源码不公开；电脑端在 **[FRr688/FXseek](https://github.com/FRr688/FXseek)**（同一个项目，那边是 macOS 版 + 手机端接口协议）。
+无账号、不收集任何数据。手机端只发安装包，App 源码不公开；电脑端在 **[FRr688/FXseek](https://github.com/FRr688/FXseek)**（同一个项目，那边是 macOS 版 + 手机端接口协议）。
 
 <p align="center">
   <img src="docs/demo/phone-ui.gif" width="46%" alt="手机端界面">
@@ -42,7 +42,7 @@
 
 ## 装到 iPhone 上（5 步）
 
-全程免费，不需要开发者账号。装好后有效期 **7 天**，到期重签一次即可（用 AltStore 会自动续签）。
+不需要开发者账号。装好后有效期 **7 天**，到期重签一次即可（用 AltStore 会自动续签）。
 
 1. **下载安装包** —— [Releases](../../releases) → `v1.1.0` → `FXseekMobile-1.1.0.ipa`（约 25 MB，[直链](https://github.com/FRr688/FXseekMobile/releases/download/v1.1.0/FXseekMobile-1.1.0.ipa)）
 2. **装一个签名工具** —— [Sideloadly](https://sideloadly.io)（通用最稳，插线签一次）· [AltStore](https://altstore.io)（自动续签，同一个 Wi-Fi）· [TrollStore](https://github.com/opa334/TrollStore)（iOS ≤ 16.6.1，装完永久有效）
@@ -94,5 +94,5 @@ shasum -a 256 ~/Downloads/FXseekMobile-1.1.0.ipa
 
 - 手机端 **App 源码不公开**，这里只分发安装包与安装指引 —— 包没加密、没后门，也不连任何第三方服务器
 - 电脑端（含手机端要用的局域网接口）源码公开：[FRr688/FXseek](https://github.com/FRr688/FXseek)
-- 手机端**免费使用**，不限台数、没有内购；电脑端的专业版授权只作用于电脑端，与手机无关
+- 手机端不限台数、无需账号；电脑端的授权只作用于电脑端，与手机无关
 - 如果发现包被二次打包或塞了东西，请到 [Issues](https://github.com/FRr688/FXseek/issues) 告诉我
