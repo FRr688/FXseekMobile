@@ -16,17 +16,13 @@
 
 ---
 
-## 电脑端 · macOS（库在那边）
-
-手机是这个库的「随身窗口」——主库、索引、模型都在 Mac 上。
+## 电脑端 · macOS
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FRr688/FXseek/main/docs/demo/01-night-zh.jpg" width="88%" alt="FXseek 电脑端主界面">
 </p>
 
-电脑端（**[FRr688/FXseek](https://github.com/FRr688/FXseek)**）：本地索引，搜画面 / 听声音 / 以图搜图，
-素材挂在桌面的绳子上随手取；**免费版 2000 条**，专业版 ¥29.9 一次买断。
-→ [下载 macOS 版](https://github.com/FRr688/FXseek/releases/latest)
+库在电脑上：**[FRr688/FXseek](https://github.com/FRr688/FXseek)** —— [下载 macOS 版](https://github.com/FRr688/FXseek/releases/latest)
 
 ---
 
